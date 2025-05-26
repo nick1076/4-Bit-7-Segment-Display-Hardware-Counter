@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=NetDS1_1 Pin=U5-9
+Removed Pin From Net: NetName=NetDS1_2 Pin=U5-10
+Removed Pin From Net: NetName=NetDS1_4 Pin=U5-11
+Removed Pin From Net: NetName=NetDS1_6 Pin=U5-12
+Removed Pin From Net: NetName=NetDS1_7 Pin=U5-13
+Removed Pin From Net: NetName=NetDS1_10 Pin=U5-14
+Removed Pin From Net: NetName=NetDS1_9 Pin=U5-15
+Change Component Footprint: Designator=U1 Old Footprint=N0014A New Footprint=FP-N0014A-MFG
+Change Component Comment : Designator=U1 Old Comment=SN74LS14N New Comment=SN74HCT14N
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CFE406F8-6A98-4CE4-AF13-091F38DE0E51 New ItemGUID=0AA2E4DA-15FC-46F6-ACA9-F7FAF392D829 Old RevisionGUID=B24DE3F8-E745-4937-900B-A1E0F95EA691 New RevisionGUID=0679201D-CEBF-46A1-9446-E36E734028C6
+Change component parameters: Designator = "U1" ("U1"); Footprint = "N0014A"; UniqueID = "\DKSNCRVH" ("\DKSNCRVH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "PDIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.57mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High Level Output Current"; Value = "-4mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Type"; Value = "SCHMITT TRIGGER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "19.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic Function"; Value = "Buffer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Level Output Current"; Value = "4mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "4mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Gates"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Inputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "4mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay"; Value = "30ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "2uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schmitt Trigger Input"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "74HCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "40ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.032734oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6.35mm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS1_10 Pin=R2-1
+Added Pin To Net: NetName=NetDS1_9 Pin=R3-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R4-1
+Added Pin To Net: NetName=NetDS1_2 Pin=R5-1
+Added Pin To Net: NetName=NetDS1_4 Pin=R6-1
+Added Pin To Net: NetName=NetDS1_6 Pin=R7-1
+Added Pin To Net: NetName=NetDS1_7 Pin=R8-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U5-14
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U5-15
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U5-9
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U5-10
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U5-11
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U5-12
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U5-13
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=Main Member=Component R2 330O
+Added Member To Class: ClassName=Main Member=Component R3 330O
+Added Member To Class: ClassName=Main Member=Component R4 330O
+Added Member To Class: ClassName=Main Member=Component R5 330O
+Added Member To Class: ClassName=Main Member=Component R6 330O
+Added Member To Class: ClassName=Main Member=Component R7 330O
+Added Member To Class: ClassName=Main Member=Component R8 330O
