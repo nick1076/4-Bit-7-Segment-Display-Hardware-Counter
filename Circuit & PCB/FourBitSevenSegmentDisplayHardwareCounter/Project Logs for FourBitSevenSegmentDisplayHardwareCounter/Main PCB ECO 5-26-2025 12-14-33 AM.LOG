@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Main Member=SW?
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Add Component: Footprint Not Found 450301014042
+Added Member To Class: ClassName=Main Member=Component C? 1µF
+Add Class Member: Failed to add class member : Component SW1 450301014042
+Added Member To Class: ClassName=Main Member=Component SW2 B3S-1000P
+Added Member To Class: ClassName=Main Member=Component U3 SN74HC08N
+Added Member To Class: ClassName=Main Member=Component U? CD4027BE
